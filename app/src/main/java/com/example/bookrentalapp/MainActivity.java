@@ -5,6 +5,20 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    // bok rental ap
+    // bok rental ap// bok rental ap
+    // bok rental ap
+    // bok rental ap
+    // bok rental ap// bok rental ap// bok rental ap
+
+    // bok rental ap
+    // bok rental ap// bok rental ap
+
+
+
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
